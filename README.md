@@ -1,4 +1,4 @@
-### https://www.codewars.com/users/TkachenkoVitaliy/badges/large
+### <img src=https://www.codewars.com/users/TkachenkoVitaliy/badges/large/>
 
 <!--
 **TkachenkoVitaliy/TkachenkoVitaliy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
