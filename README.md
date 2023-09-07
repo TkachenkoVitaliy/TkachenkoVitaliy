@@ -1,3 +1,5 @@
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=TkachenkoVitaliy&show_icons=true)
+
 <a href="https://www.codewars.com/users/TkachenkoVitaliy" target="_blank">Codewars&nbsp;&nbsp;</a><img src="https://www.codewars.com/users/TkachenkoVitaliy/badges/large" style="width: 400px; height: 40px" />
 
 <a href="https://leetcode.com/VitaliyTkachenko/" target="_blank">Leetcode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FVitaliyTkachenko&logo=leetcode&logoColor=yellow" style="width: 380px;height: 40px;max-width: 100%;display: block;padding: 0 10px;"/>
